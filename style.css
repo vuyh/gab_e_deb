@@ -1,0 +1,38 @@
+
+body {
+    
+    background-image: url("./Design%20sem%20nome.png");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+
+    font-family: Arial, sans-serif;
+    text-align: center;
+    padding-top: 100px;
+    color: #d6336c;
+}
+  
+
+
+h1 {
+    font-size: 40px;
+}
+
+h2 {
+    font-size: 25px;
+}
+
+#contador {
+    font-size: 25px;
+    font-weight: bold;
+}
+
+#contador span {
+    display: block;
+    margin: 10px;
+}
+
+p {
+    font-size: 18px;
+}
